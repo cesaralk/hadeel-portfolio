@@ -1,5 +1,6 @@
 # Hadeel Al Souki — Portfolio Website
-https://cesaralk.github.io/hadeel-portfolio/
+[live-demo](https://cesaralk.github.io/hadeel-portfolio/)
+
 Static responsive portfolio website prepared for GitHub Pages and Bitreca.
 
 ## GitHub Pages
