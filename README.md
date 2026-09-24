@@ -20,3 +20,5 @@ If Cloudflare routing redirects that path to the React SPA instead, add an expli
 
 ## Project images
 The three portfolio cards are intentional placeholders. Replace them later with Hadeel's real finished-space photos, AutoCAD drawings, or 3D renders.
+# Hadeel Al Souki — Portfolio
+[live-demo](https://cesaralk.github.io/Hadeel Al Souki — Portfolio/)
